@@ -1,0 +1,5 @@
+opencv-python
+pillow
+pyglet
+numpy
+vi3o
